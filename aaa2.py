@@ -1,4 +1,3 @@
-def get_name(first_name, last_name):
-    return f"{first_name} {last_name}"
-
-get_name
+m=2
+n=6
+print(m*n)
